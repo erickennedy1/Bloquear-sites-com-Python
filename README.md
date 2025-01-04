@@ -47,4 +47,4 @@ Gostou do projeto? Deixe seu feedback, compartilhe ideias ou colabore!
 
 ---
 
-Feito por Eric Kennedy.
+Feito com 💙 por Eric Kennedy.
