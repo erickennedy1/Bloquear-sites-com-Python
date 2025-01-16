@@ -26,6 +26,7 @@ Após bloquear ou desbloquear um site, reinicie o navegador para aplicar as alte
 Se tiver dúvidas ou sugestões, entre em contato:
 
 LinkedIn: https://www.linkedin.com/in/lwurindo/
+
 E-mail: er1kennedy12@gmail.com
 
 ⭐ Se este projeto foi útil para você, não esqueça de deixar uma estrela no repositório!
